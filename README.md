@@ -98,7 +98,7 @@ Retrieve customer first name, last name, and email ID.
 ![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/13.png)
 
 ### 15. Payments Over $5 for Specific Customers
-![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/11.png)
+![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/payments_for_specific_cus.png)
 
 ### 16. Films with 'Behind the Scenes' Special Feature
 ![Behind the Scenes Films](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/14.png)
