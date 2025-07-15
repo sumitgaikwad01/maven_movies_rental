@@ -92,10 +92,10 @@ Retrieve customer first name, last name, and email ID.
 ![Reward Eligible Customers](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/11.png)
 
 ### 13. Payments from First 100 Customers
-![First 100 Customer Payments](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/11.png)
+![First 100 Customer Payments](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/12.png)
 
 ### 14. Payments Over $5 Since Jan 1, 2006
-![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/12.png)
+![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/11.png)
 
 ### 15. Payments Over $5 for Specific Customers
 ![Payments Over $5](https://github.com/sumitgaikwad01/maven_movies_rental/blob/main/code_output/13.png)
